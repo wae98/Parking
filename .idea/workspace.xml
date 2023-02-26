@@ -15,6 +15,9 @@
       <change afterPath="$PROJECT_DIR$/reactfront/src/components/register.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/reactfront/src/navbar/auth.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/reactfront/src/navbar/guest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/api/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactfront" beforeDir="false" afterPath="$PROJECT_DIR$/reactfront" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reactfront/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/reactfront/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reactfront/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/reactfront/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reactfront/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/reactfront/src/App.js" afterDir="false" />
@@ -37,7 +40,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/reactfront" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -198,7 +201,8 @@
       <workItem from="1677348927919" duration="4240000" />
       <workItem from="1677353243671" duration="8950000" />
       <workItem from="1677384263548" duration="14533000" />
-      <workItem from="1677449419000" duration="443000" />
+      <workItem from="1677449419000" duration="547000" />
+      <workItem from="1677452246606" duration="44000" />
     </task>
     <servers />
   </component>
